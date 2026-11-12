@@ -1,11 +1,12 @@
 # 🀄 雀魂智囊助手 (Zizhi MahjongSoul Assistant) - 商业版
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Release-v1.3.5-brightgreen.svg" alt="Release" />
+  <img src="https://img.shields.io/badge/Release-v1.4.2-brightgreen.svg" alt="Release" />
   <img src="https://img.shields.io/badge/Platform-Windows%2010%2F11%20(64--bit)-blue.svg" alt="Platform" />
   <img src="https://img.shields.io/badge/AI%20Engine-Mortal%20v4%20ResNet--54-orange.svg" alt="Engine" />
   <img src="https://img.shields.io/badge/Security-Pure%20C%20Watchdog%20%7C%20Ed25519-red.svg" alt="Security" />
-  <img src="https://img.shields.io/badge/Telegram-@xrw__my-blue?logo=telegram" alt="Telegram" />
+  <a href="https://api.sleepmajiang.kdns.fr/shop"><img src="https://img.shields.io/badge/Shop-%E5%AE%98%E6%96%B9%E8%87%AA%E5%8A%A9%E5%8F%91%E5%8D%A1-brightgreen.svg" alt="官方自助发卡商城" /></a>
+  <a href="https://t.me/xrw_my"><img src="https://img.shields.io/badge/Telegram-@xrw__my-blue?logo=telegram" alt="Telegram" /></a>
 </p>
 
 <p align="center">
@@ -53,14 +54,14 @@
 | 👗 **全角色/皮肤/装扮全解锁 (Skin Mod)** | 510 款皮肤 & 124 位角色全装扮本地 100% 视觉解锁，支持一键联网拉取最新皮肤数据库，局间永久持久化生效。 |
 | 🌐 **底层网络虚拟网卡 (TUN)** | 基于 Sing-box 定向分流技术，精准拦截 Steam 游戏流量，无需配置代理端口或导入根证书，随开随走无残留。 |
 | 🛡️ **企业级内核加固体系** | 纯 C 级底层看门狗、反 Inline Hook 特征检测、动态通道重排分片加密、Ed25519 签名清单验证与硬件级 `__fastfail` 自毁防御。 |
-| 🔄 **云端静默自更新** | 客户端内置版本热更新服务，检测到新特性或算法优化时一键平滑升级，永久保持最新战力。 |
+| 🚀 **极速更新与断点续传** | 支持国内多节点高速 CDN 与直连 IP 故障转移、HTTP Range 断点无感续传及网页备用通道，彻底解决更新慢与网络中断。 |
 
 ---
 
 ## 🚀 极简使用教程
 
 ### 第一步：下载软件包
-前往本仓库右侧的 [**Releases**](https://github.com/Sleep312/Zizhi-MahjongSoul-Assistant/releases) 页面，下载最新发布的 `雀魂智囊助手_商业版_v1.3.5.zip`。
+前往本仓库右侧的 [**Releases**](https://github.com/Sleep312/Zizhi-MahjongSoul-Assistant/releases) 页面，下载最新发布的 `Zizhi_MahjongSoul_Assistant_v1.4.2.zip`（或前往 [**官方发卡商城**](https://api.sleepmajiang.kdns.fr/shop) 下载直连安装包）。
 
 ### 第二步：解压与运行
 1. 将下载的 ZIP 压缩包解压到任意文件夹（建议路径不含中文或特殊符号）。
@@ -68,7 +69,7 @@
 
 ### 第三步：输入卡密激活
 1. 首次打开会弹出授权激活对话框。
-2. 粘贴您获取到的**商业授权卡密**，点击【立即激活绑定】（一机一码自动绑定硬件）。
+2. 前往 [**官方自助发卡商城**](https://api.sleepmajiang.kdns.fr/shop) 获取**商业授权卡密**并粘贴，点击【立即激活绑定】（一机一码自动绑定硬件）。
 
 ### 第四步：畅享对局
 1. 在主界面点击绿色大按钮 **【▶ 一键启动 AI 辅助】**。
@@ -80,6 +81,8 @@
 
 ## 💬 获取正版卡密 & 售后咨询
 
+- 🛒 **官方自助发卡商城（7×24小时全自动发货）**：[https://api.sleepmajiang.kdns.fr/shop](https://api.sleepmajiang.kdns.fr/shop)  
+  *(支持在线自助选卡下单、支付后页面秒出卡密与自助订单查询补单，同时提供 Windows / Android 最新版客户端高速直连下载)*
 - ✈️ **Telegram 官方联系**：[https://t.me/xrw_my](https://t.me/xrw_my)  
   *(点击链接或在 Telegram 搜索 `@xrw_my` 咨询购买商业授权、定制功能或反馈技术问题)*
 
